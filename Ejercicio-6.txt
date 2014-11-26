@@ -1,0 +1,13 @@
+EJERCICIO 6)
+
+
+Pregunta 2:
+
+Para llevar a cabo esta modificación tendríamos que quitar el atributo "PRECIO" de la relación de "VENDE" y añadir el atributo "PRECIO" a la entidad "MEDICAMENTOS", y así cada medicamento tendría un precio para todos.
+
+Pregunta 3:
+
+Entonces ahora necesitaríamos una entidad "RECETAS" donde tendríamos todas las recetas con sus atributos y esta entidad entidad estaría en relacion con "RECETAN".
+
+
+

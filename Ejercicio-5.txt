@@ -1,0 +1,5 @@
+EJERCICIO 5)
+
+Pregunta 2:
+
+No podemos ya que tendríamos que unir las relaciones "EXPERTO EN" Y "CONTROLAR", y como no se pueden unir dos relaciones directamente no podemos.
